@@ -25,14 +25,14 @@ body {
 }
 
 .bg-motherboard-dev {
-    background-image: url("../assets/img/publicbackgrounds/bg-motherboard-dev.jpg")
+    background-image: url("../assets/img/publicbackground/bg-motherboard-dev.jpg")
 }
 
 .min-vh-90 {
     min-height: 90vh !important;
 }
 
-bg-white-94 {
+.bg-white-94 {
     background-color: rgba(255,255,255, 0.94);
 }
 
@@ -47,7 +47,7 @@ bg-white-94 {
     }
 
     .bg-motherboard-dev {
-        background-image: url("../assets/img/publicbackgrounds/bg-motherboard.jpg")
+        background-image: url("../assets/img/publicbackground/bg-motherboard.jpg")
     }
 }
 
